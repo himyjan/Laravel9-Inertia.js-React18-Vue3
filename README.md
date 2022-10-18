@@ -13,6 +13,15 @@ https://laravel.com/docs/9.x/installation
 ```
 
 ```
+npm i
+npm run dev
+```
+
+```
+php artisan serve
+```
+
+```
 ./vendor/bin/sail up
 ```
 
