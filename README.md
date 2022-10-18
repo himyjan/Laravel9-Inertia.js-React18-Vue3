@@ -9,8 +9,11 @@
 </p>
 
 ```
+https://laravel.com/docs/9.x/installation
+```
+
+```
 ./vendor/bin/sail up
-docker compose up
 ```
 
 ## About Laravel
