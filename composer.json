@@ -10,9 +10,12 @@
     "require": {
         "php": "^8.1.11",
         "guzzlehttp/guzzle": "^7.5.0",
+        "inertiajs/inertia-laravel": "^0.6.3",
         "laravel/framework": "^9.37.0",
+        "laravel/jetstream": "^2.12.5",
         "laravel/sanctum": "^3.0.1",
-        "laravel/tinker": "^2.7.2"
+        "laravel/tinker": "^2.7.2",
+        "tightenco/ziggy": "^1.5.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.20.0",
@@ -20,8 +23,8 @@
         "laravel/sail": "^1.16.2",
         "mockery/mockery": "^1.5.1",
         "nunomaduro/collision": "^6.3.1",
-        "phpunit/phpunit": "^9.5.25",
-        "spatie/laravel-ignition": "^1.6.0"
+        "phpunit/phpunit": "^9.5.26",
+        "spatie/laravel-ignition": "^1.6.1"
     },
     "autoload": {
         "psr-4": {
