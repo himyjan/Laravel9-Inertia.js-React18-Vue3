@@ -23,6 +23,8 @@ php artisan serve
 
 ```
 ./vendor/bin/sail up
+
+php artisan migrate:fresh
 ```
 
 # package update
